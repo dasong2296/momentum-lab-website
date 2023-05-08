@@ -1,9 +1,9 @@
 ---
 ---
 
-# dasong2296's Website
+# Momentum Lab Website
 
-An engaging 1-3 sentence description of your lab.
+Momentum lab is a dynamic and innovative environment where we focus on advancing the field of intelligent software systems. Our team is composed of researchers with diverse interests and working directions, but our primary focus is on providing general purpose quality assurance solutions and engineering support for intelligent software systems.
 
 {% include section.html %}
 
