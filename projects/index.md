@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab has conducted a series of works in general-purpose quality assurance research for intelligent software systems, which includes testing, analysis, verification, interpretation, attacks, and defenses. Our goal is to bridge the vast demands from the industry and to provide effective solutions to ensure the reliability and trustworthiness of intelligent software systems.
 
 {% include tags.html tags="publication, resource, website" %}
 

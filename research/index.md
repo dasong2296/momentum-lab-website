@@ -7,8 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We strongly believe that trustworthy intelligent software systems are the driving force for technology innovation in the future. To achieve this, we recognize that it is not enough to rely solely on the foundational research from the AI community. Instead, it requires the contribution of many communities, such as software engineering, control, and others, to develop a new interdisciplinary emerging field - Machine Learning System Engineering.
+
+We are committed to continuously updating our research results and sharing our findings with the broader scientific community. With our exciting and demanding area of research, we welcome collaboration with other research labs, industry partners, and government agencies to make significant advancements in Machine Learning System Engineering.
 
 {% include section.html %}
 
