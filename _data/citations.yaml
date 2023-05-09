@@ -1,60 +1,972 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1007/s10664-022-10262-y
+  title: 'Towards understanding quality challenges of the federated learning for neural
+    networks: a first look from the lens of robustness'
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  - Amin Eslami Abyane
+  - Derui Zhu
+  - Roberto Souza
+  - Lei Ma
+  - Hadi Hemmati
+  publisher: Empirical Software Engineering
+  date: '2023-02-11'
+  link: https://doi.org/gr7rbr
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1109/TSE.2022.3194640
+  title: 'FalsifAI: Falsification of AI-Enabled Hybrid Control Systems Guided by Time-Aware
+    Coverage Criteria'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
+  - Zhenya Zhang
+  - Deyun Lyu
+  - Paolo Arcaini
+  - Lei Ma
+  - Ichiro Hasuo
+  - Jianjun Zhao
+  publisher: IEEE Transactions on Software Engineering
+  date: '2023-04-01'
+  link: https://doi.org/gr7rbs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TSE.2022.3233901
+  title: 'GraphSearchNet: Enhancing GNNs via Capturing Global Dependencies for Semantic
+    Code Search'
+  authors:
+  - Shangqing Liu
+  - Xiaofei Xie
+  - Jingkai Siow
+  - Lei Ma
+  - Guozhu Meng
+  - Yang Liu
+  publisher: IEEE Transactions on Software Engineering
+  date: '2023-04-01'
+  link: https://doi.org/gr7rbt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3544548.3580741
+  title: 'DeepLens: Interactive Out-of-distribution Data Detection in NLP Models'
+  authors:
+  - Da Song
+  - Zhijie Wang
+  - Yuheng Huang
+  - Lei Ma
+  - Tianyi Zhang
+  publisher: Proceedings of the 2023 CHI Conference on Human Factors in Computing
+    Systems
+  date: '2023-04-19'
+  link: https://doi.org/gr7rbv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2301.11490
+  title: Neural Episodic Control with State Abstraction
+  authors:
+  - Zhuo Li
+  - Derui Zhu
+  - Yujing Hu
+  - Xiaofei Xie
+  - Lei Ma
+  - Yan Zheng
+  - Yan Song
+  - Yingfeng Chen
+  - Jianjun Zhao
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gr7rbw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2303.01576
+  title: 'DeepSeer: Interactive RNN Explanation and Debugging via State Abstraction'
+  authors:
+  - Zhijie Wang
+  - Yuheng Huang
+  - Da Song
+  - Lei Ma
+  - Tianyi Zhang
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gr7rbx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2303.01577
+  title: 'DeepLens: Interactive Out-of-distribution Data Detection in NLP Models'
+  authors:
+  - Da Song
+  - Zhijie Wang
+  - Yuheng Huang
+  - Lei Ma
+  - Tianyi Zhang
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gr7rbz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2304.05617
+  title: 'AutoRepair: Automated Repair for AI-Enabled Cyber-Physical Systems under
+    Safety-Critical Conditions'
+  authors:
+  - Deyun Lyu
+  - Jiayang Song
+  - Zhenya Zhang
+  - Zhijie Wang
+  - Tianyi Zhang
+  - Lei Ma
+  - Jianjun Zhao
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gr7rb2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2304.11670
+  title: Evading DeepFake Detectors via Adversarial Statistical Consistency
+  authors:
+  - Yang Hou
+  - Qing Guo
+  - Yihao Huang
+  - Xiaofei Xie
+  - Lei Ma
+  - Jianjun Zhao
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gr7rb3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10664-022-10158-x
+  title: 'GBGallery : A benchmark and framework for game testing'
+  authors:
+  - Zhuo Li
+  - Yuechen Wu
+  - Lei Ma
+  - Xiaofei Xie
+  - Yingfeng Chen
+  - Changjie Fan
+  publisher: Empirical Software Engineering
+  date: '2022-07-27'
+  link: https://doi.org/gr7rb4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10664-022-10221-7
+  title: 'On the usage and development of deep learning compilers: an empirical study
+    on TVM'
+  authors:
+  - Xiongfei Wu
+  - Jinqiu Yang
+  - Lei Ma
+  - Yinxing Xue
+  - Jianjun Zhao
+  publisher: Empirical Software Engineering
+  date: '2022-09-20'
+  link: https://doi.org/gr7rb5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11263-022-01606-8
+  title: 'Countering Malicious DeepFakes: Survey, Battleground, and Horizon'
+  authors:
+  - Felix Juefei-Xu
+  - Run Wang
+  - Yihao Huang
+  - Qing Guo
+  - Lei Ma
+  - Yang Liu
+  publisher: International Journal of Computer Vision
+  date: '2022-05-04'
+  link: https://doi.org/gr7rb7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jss.2022.111410
+  title: 'Vulpedia: Detecting vulnerable ethereum smart contracts via abstracted vulnerability
+    signatures'
+  authors:
+  - Jiaming Ye
+  - Mingliang Ma
+  - Yun Lin
+  - Lei Ma
+  - Yinxing Xue
+  - Jianjun Zhao
+  publisher: Journal of Systems and Software
+  date: '2022-10-01'
+  link: https://doi.org/gr7rb8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.patcog.2022.108864
+  title: 'DARTSRepair: Core-failure-set guided DARTS for network robustness to common
+    corruptions'
+  authors:
+  - Xuhong Ren
+  - Jianlang Chen
+  - Felix Juefei-Xu
+  - Wanli Xue
+  - Qing Guo
+  - Lei Ma
+  - Jianjun Zhao
+  - Shengyong Chen
+  publisher: Pattern Recognition
+  date: '2022-11-01'
+  link: https://doi.org/gr7rb9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCSVT.2021.3116976
+  title: Byzantine-Resilient Decentralized Stochastic Gradient Descent
+  authors:
+  - Shangwei Guo
+  - Tianwei Zhang
+  - Han Yu
+  - Xiaofei Xie
+  - Lei Ma
+  - Tao Xiang
+  - Yang Liu
+  publisher: IEEE Transactions on Circuits and Systems for Video Technology
+  date: '2022-06-01'
+  link: https://doi.org/gr7rcb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TDSC.2020.3037332
+  title: Oracle-Supported Dynamic Exploit Generation for Smart Contracts
+  authors:
+  - Haijun Wang
+  - Ye Liu
+  - Yi Li
+  - Shang-Wei Lin
+  - Cyrille Artho
+  - Lei Ma
+  - Yang Liu
+  publisher: IEEE Transactions on Dependable and Secure Computing
+  date: '2022-05-01'
+  link: https://doi.org/gjx56k
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TNNLS.2021.3072166
+  title: Breaking Neural Reasoning Architectures With Metamorphic Relation-Based Adversarial
+    Examples
+  authors:
+  - Alvin Chan
+  - Lei Ma
+  - Felix Juefei-Xu
+  - Yew-Soon Ong
+  - Xiaofei Xie
+  - Minhui Xue
+  - Yang Liu
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2022-11-01'
+  link: https://doi.org/gr7rcc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3490489
+  title: "NPC:\n            <u>N</u>\n            euron\n            <u>P</u>\n  \
+    \          ath\n            <u>C</u>\n            overage via Characterizing Decision\
+    \ Logic of Deep Neural Networks"
+  authors:
+  - Xiaofei Xie
+  - Tianlin Li
+  - Jian Wang
+  - Lei Ma
+  - Qing Guo
+  - Felix Juefei-Xu
+  - Yang Liu
+  publisher: ACM Transactions on Software Engineering and Methodology
+  date: '2022-04-09'
+  link: https://doi.org/gr7rcd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3511887
+  title: "Towards Robustness of Deep Program Processing Models\u2014Detection, Estimation,\
+    \ and Enhancement"
+  authors:
+  - Huangzhao Zhang
+  - Zhiyi Fu
+  - Ge Li
+  - Lei Ma
+  - Zhehao Zhao
+  - "Hua\u2019an Yang"
+  - Yizhe Sun
+  - Yang Liu
+  - Zhi Jin
+  publisher: ACM Transactions on Software Engineering and Methodology
+  date: '2022-04-09'
+  link: https://doi.org/gq4v5r
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3506695
+  title: An Empirical Study of the Impact of Hyperparameter Tuning and Model Optimization
+    on the Performance Properties of Deep Neural Networks
+  authors:
+  - Lizhi Liao
+  - Heng Li
+  - Weiyi Shang
+  - Lei Ma
+  publisher: ACM Transactions on Software Engineering and Methodology
+  date: '2022-04-09'
+  link: https://doi.org/gr7rcf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3511598
+  title: An Empirical Study on Data Distribution-Aware Test Selection for Deep Learning
+    Enhancement
+  authors:
+  - Qiang Hu
+  - Yuejun Guo
+  - Maxime Cordy
+  - Xiaofei Xie
+  - Lei Ma
+  - Mike Papadakis
+  - Yves Le Traon
+  publisher: ACM Transactions on Software Engineering and Methodology
+  date: '2022-07-12'
+  link: https://doi.org/gr7rcg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TR.2021.3096332
+  title: <i>DeepRepair:</i> Style-Guided Repairing for Deep Neural Networks in the
+    Real-World Operational Environment
+  authors:
+  - Bing Yu
+  - Hua Qi
+  - Qing Guo
+  - Felix Juefei-Xu
+  - Xiaofei Xie
+  - Lei Ma
+  - Jianjun Zhao
+  publisher: IEEE Transactions on Reliability
+  date: '2022-12-01'
+  link: https://doi.org/gq4wgh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TSE.2019.2962027
+  title: 'Machine Learning Testing: Survey, Landscapes and Horizons'
+  authors:
+  - Jie M. Zhang
+  - Mark Harman
+  - Lei Ma
+  - Yang Liu
+  publisher: IEEE Transactions on Software Engineering
+  date: '2022-01-01'
+  link: https://doi.org/ggsb4s
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICSE-SEIP55303.2022.9794128
+  title: 'When Cyber-Physical Systems Meet AI: A Benchmark, an Evaluation, and a Way
+    Forward'
+  authors:
+  - Jiayang Song
+  - Deyun Lyu
+  - Zhenya Zhang
+  - Zhijie Wang
+  - Tianyi Zhang
+  - Lei Ma
+  publisher: '2022 IEEE/ACM 44th International Conference on Software Engineering:
+    Software Engineering in Practice (ICSE-SEIP)'
+  date: '2022-05-01'
+  link: https://doi.org/gr7rch
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ISSRE55969.2022.00030
+  title: An Empirical Analysis of Compatibility Issues for Industrial Mobile Games
+    (Practical Experience Report)
+  authors:
+  - Zihe Song
+  - Yingfeng Chen
+  - Lei Ma
+  - Shangjie Lu
+  - Honglei Lin
+  - Changjie Fan
+  - Wei Yang
+  publisher: 2022 IEEE 33rd International Symposium on Software Reliability Engineering
+    (ISSRE)
+  date: '2022-10-01'
+  link: https://doi.org/gr7rcj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ISSREW55968.2022.00026
+  title: 'Message from the RAIS 2022 Chairs: ISSREW 2022'
+  authors:
+  - Yan-Fu Li
+  - Yinxing Xue
+  - Lei Ma
+  - Shengjian Guo
+  - Guozhu Meng
+  publisher: 2022 IEEE International Symposium on Software Reliability Engineering
+    Workshops (ISSREW)
+  date: '2022-10-01'
+  link: https://doi.org/gr7rck
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3503161.3547757
+  title: "A\n            <sup>3</sup>\n            GAN: Attribute-Aware Anonymization\
+    \ Networks for Face De-identification"
+  authors:
+  - Liming Zhai
+  - Qing Guo
+  - Xiaofei Xie
+  - Lei Ma
+  - Yi Estelle Wang
+  - Yang Liu
+  publisher: Proceedings of the 30th ACM International Conference on Multimedia
+  date: '2022-10-10'
+  link: https://doi.org/gr7rcm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2203.12915
+  title: 'NPC: Neuron Path Coverage via Characterizing Decision Logic of Deep Neural
+    Networks'
+  authors:
+  - Xiaofei Xie
+  - Tianlin Li
+  - Jian Wang
+  - Lei Ma
+  - Qing Guo
+  - Felix Juefei-Xu
+  - Yang Liu
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gr7rcn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2206.05480
+  title: 'CodeS: Towards Code Model Generalization Under Distribution Shift'
+  authors:
+  - Qiang Hu
+  - Yuejun Guo
+  - Xiaofei Xie
+  - Maxime Cordy
+  - Lei Ma
+  - Mike Papadakis
+  - Yves Le Traon
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gr7rcp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2206.05961
+  title: 'A Survey on Automated Driving System Testing: Landscapes and Trends'
+  authors:
+  - Shuncheng Tang
+  - Zhenya Zhang
+  - Yi Zhang
+  - Jixiang Zhou
+  - Yan Guo
+  - Shuang Liu
+  - Shengjian Guo
+  - Yan-Fu Li
+  - Lei Ma
+  - Yinxing Xue
+  - Yang Liu
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gr7rcq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2207.10942
+  title: 'Aries: Efficient Testing of Deep Neural Networks via Labeling-Free Accuracy
+    Estimation'
+  authors:
+  - Qiang Hu
+  - Yuejun Guo
+  - Xiaofei Xie
+  - Maxime Cordy
+  - Lei Ma
+  - Mike Papadakis
+  - Yves Le Traon
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gr7rcr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2209.10381
+  title: 'DARTSRepair: Core-failure-set Guided DARTS for Network Robustness to Common
+    Corruptions'
+  authors:
+  - Xuhong Ren
+  - Jianlang Chen
+  - Felix Juefei-Xu
+  - Wanli Xue
+  - Qing Guo
+  - Lei Ma
+  - Jianjun Zhao
+  - Shengyong Chen
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gr7rcs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2210.01075
+  title: Decompiling x86 Deep Neural Network Executables
+  authors:
+  - Zhibo Liu
+  - Yuanyuan Yuan
+  - Shuai Wang
+  - Xiaofei Xie
+  - Lei Ma
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gr7rct
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2210.05896
+  title: 'Common Corruption Robustness of Point Cloud Detectors: Benchmark and Enhancement'
+  authors:
+  - Shuangzhi Li
+  - Zhijie Wang
+  - Felix Juefei-Xu
+  - Qing Guo
+  - Xingyu Li
+  - Lei Ma
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gr7rcv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2212.01635
+  title: 'AI-driven Mobile Apps: an Explorative Study'
+  authors:
+  - Yinghua Li
+  - Xueqi Dang
+  - Haoye Tian
+  - Tiezhu Sun
+  - Zhijie Wang
+  - Lei Ma
+  - Jacques Klein
+  - Tegawende F. Bissyande
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gr7rcw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2212.06828
+  title: An Exploratory Study of AI System Risk Assessment from the Lens of Data Distribution
+    and Uncertainty
+  authors:
+  - Zhijie Wang
+  - Yuheng Huang
+  - Lei Ma
+  - Haruki Yokoyama
+  - Susumu Tokumoto
+  - Kazuki Munakata
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gr7rcx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2212.13424
+  title: Towards Benchmarking GUI Compatibility Testing on Mobile Applications
+  authors:
+  - Jiaming Ye
+  - Mulong Xie
+  - Siyuan Chen
+  - Fuyuan Zhang
+  - Lei Ma
+  - Zhenchang Xing
+  - Jianjun Zhao
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gr7rcz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-030-81685-8_29
+  title: Effective Hybrid System Falsification Using Monte Carlo Tree Search Guided
+    by QB-Robustness
+  authors:
+  - Zhenya Zhang
+  - Deyun Lyu
+  - Paolo Arcaini
+  - Lei Ma
+  - Ichiro Hasuo
+  - Jianjun Zhao
+  publisher: Computer Aided Verification
+  date: '2021-01-01'
+  link: https://doi.org/gr7rdt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICCV48922.2021.01066
+  title: Learning to Adversarially Blur Visual Object Tracking
+  authors:
+  - Qing Guo
+  - Ziyi Cheng
+  - Felix Juefei-Xu
+  - Lei Ma
+  - Xiaofei Xie
+  - Yang Liu
+  - Jianjun Zhao
+  publisher: 2021 IEEE/CVF International Conference on Computer Vision (ICCV)
+  date: '2021-10-01'
+  link: https://doi.org/gr7rc2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICME51207.2021.9428185
+  title: 'Deepmix: Online Auto Data Augmentation for Robust Visual Object Tracking'
+  authors:
+  - Ziyi Cheng
+  - Xuhong Ren
+  - Felix Juefei-Xu
+  - Wanli Xue
+  - Qing Guo
+  - Lei Ma
+  - Jianjun Zhao
+  publisher: 2021 IEEE International Conference on Multimedia and Expo (ICME)
+  date: '2021-07-05'
+  link: https://doi.org/gr7rc3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICSE43902.2021.00048
+  title: Automatic Web Testing Using Curiosity-Driven Reinforcement Learning
+  authors:
+  - Yan Zheng
+  - Yi Liu
+  - Xiaofei Xie
+  - Yepang Liu
+  - Lei Ma
+  - Jianye Hao
+  - Yang Liu
+  publisher: 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE)
+  date: '2021-05-01'
+  link: https://doi.org/gpd45p
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/Q-SE52541.2021.00011
+  title: Identifying Bug Patterns in Quantum Programs
+  authors:
+  - Pengzhan Zhao
+  - Jianjun Zhao
+  - Lei Ma
+  publisher: 2021 IEEE/ACM 2nd International Workshop on Quantum Software Engineering
+    (Q-SE)
+  date: '2021-06-01'
+  link: https://doi.org/gr7rc4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICST49551.2021.00016
+  title: A Search-Based Testing Framework for Deep Neural Networks of Source Code
+    Embedding
+  authors:
+  - Maryam Vahdat Pour
+  - Zhuo Li
+  - Lei Ma
+  - Hadi Hemmati
+  publisher: 2021 14th IEEE Conference on Software Testing, Verification and Validation
+    (ICST)
+  date: '2021-04-01'
+  link: https://doi.org/gq4vzz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ISSREW53611.2021.00057
+  title: Issue Categorization and Analysis of an Open-Source Driving Assistant System
+  authors:
+  - Shuncheng Tang
+  - Zhenya Zhang
+  - Jia Tang
+  - Lei Ma
+  - Yinxing Xue
+  publisher: 2021 IEEE International Symposium on Software Reliability Engineering
+    Workshops (ISSREW)
+  date: '2021-10-01'
+  link: https://doi.org/gr7rc5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ISSRE52982.2021.00030
+  title: An Empirical Study on Common Bugs in Deep Learning Compilers
+  authors:
+  - Xiaoting Du
+  - Zheng Zheng
+  - Lei Ma
+  - Jianjun Zhao
+  publisher: 2021 IEEE 32nd International Symposium on Software Reliability Engineering
+    (ISSRE)
+  date: '2021-10-01'
+  link: https://doi.org/gq4whs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3474085.3475171
+  title: 'AdvFilter: Predictive Perturbation-aware Filtering against Adversarial Attack
+    via Multi-domain Learning'
+  authors:
+  - Yihao Huang
+  - Qing Guo
+  - Felix Juefei-Xu
+  - Lei Ma
+  - Weikai Miao
+  - Yang Liu
+  - Geguang Pu
+  publisher: Proceedings of the 29th ACM International Conference on Multimedia
+  date: '2021-10-17'
+  link: https://doi.org/gq889p
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-030-76384-8_24
+  title: On the Effectiveness of Signal Rescaling in Hybrid System Falsification
+  authors:
+  - Zhenya Zhang
+  - Deyun Lyu
+  - Paolo Arcaini
+  - Lei Ma
+  - Ichiro Hasuo
+  - Jianjun Zhao
+  publisher: Lecture Notes in Computer Science
+  date: '2021-01-01'
+  link: https://doi.org/gr7rdv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3468264.3473935
+  title: An empirical study of GUI widget detection for industrial mobile games
+  authors:
+  - Jiaming Ye
+  - Ke Chen
+  - Xiaofei Xie
+  - Lei Ma
+  - Ruochen Huang
+  - Yingfeng Chen
+  - Yinxing Xue
+  - Jianjun Zhao
+  publisher: Proceedings of the 29th ACM Joint Meeting on European Software Engineering
+    Conference and Symposium on the Foundations of Software Engineering
+  date: '2021-08-18'
+  link: https://doi.org/gr7rc6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3464968
+  title: Proceedings of the 1st ACM International Workshop on AI and Software Testing/Analysis
+  authors: []
+  publisher: ACM
+  date: '2021-07-11'
+  link: https://doi.org/gr7rc7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10664-019-09764-z
+  title: 'CDA: Characterising Deprecated Android APIs'
+  authors:
+  - Li Li
+  - Jun Gao
+  - "Tegawend\xE9 F. Bissyand\xE9"
+  - Lei Ma
+  - Xin Xia
+  - Jacques Klein
+  publisher: Empirical Software Engineering
+  date: '2020-01-11'
+  link: https://doi.org/gpgfh4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/stvr.1720
+  title: "Model\u2010based testing of Apache ZooKeeper: Fundamental API usage and\
+    \ watchers"
+  authors:
+  - Cyrille Artho
+  - Kazuaki Banzai
+  - Quentin Gros
+  - Guillaume Rousset
+  - Lei Ma
+  - Takashi Kitamura
+  - Masami Hagiya
+  - Yoshinori Tanabe
+  - Mitsuharu Yamamoto
+  publisher: Software Testing, Verification and Reliability
+  date: '2019-12-02'
+  link: https://doi.org/gh97dg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-030-58595-2_13
+  title: 'SPARK: Spatial-Aware Online Incremental Attack Against Visual Tracking'
+  authors:
+  - Qing Guo
+  - Xiaofei Xie
+  - Felix Juefei-Xu
+  - Lei Ma
+  - Zhongguo Li
+  - Wanli Xue
+  - Wei Feng
+  - Yang Liu
+  publisher: "Computer Vision \u2013 ECCV 2020"
   date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  link: https://doi.org/gnfnht
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1145/3377811.3380368
+  title: Towards characterizing adversarial defects of deep learning software from
+    the lens of uncertainty
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Xiyue Zhang
+  - Xiaofei Xie
+  - Lei Ma
+  - Xiaoning Du
+  - Qiang Hu
+  - Yang Liu
+  - Jianjun Zhao
+  - Meng Sun
+  publisher: Proceedings of the ACM/IEEE 42nd International Conference on Software
+    Engineering
+  date: '2020-06-27'
+  link: https://doi.org/gq4wqx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICSME46990.2020.00074
+  title: Regression Testing of Massively Multiplayer Online Role-Playing Games
+  authors:
+  - Yuechen Wu
+  - Yingfeng Chen
+  - Xiaofei Xie
+  - Bing Yu
+  - Changjie Fan
+  - Lei Ma
+  publisher: 2020 IEEE International Conference on Software Maintenance and Evolution
+    (ICSME)
+  date: '2020-09-01'
+  link: https://doi.org/gr7rdw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICSME46990.2020.00079
+  title: Few-Shot Guided Mix for DNN Repairing
+  authors:
+  - Xuhong Ren
+  - Bing Yu
+  - Hua Qi
+  - Felix Juefei-Xu
+  - Zhuo Li
+  - Wanli Xue
+  - Lei Ma
+  - Jianjun Zhao
+  publisher: 2020 IEEE International Conference on Software Maintenance and Evolution
+    (ICSME)
+  date: '2020-09-01'
+  link: https://doi.org/gq4wh9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.24963/ijcai.2020/476
+  title: 'FakeSpotter: A Simple yet Robust Baseline for Spotting AI-Synthesized Fake
+    Faces'
+  authors:
+  - Run Wang
+  - Felix Juefei-Xu
+  - Lei Ma
+  - Xiaofei Xie
+  - Yihao Huang
+  - Jian Wang
+  - Yang Liu
+  publisher: Proceedings of the Twenty-Ninth International Joint Conference on Artificial
+    Intelligence
+  date: '2020-07-01'
+  link: https://doi.org/gr7rdx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3387904.3389254
+  title: How are Deep Learning Models Similar?
+  authors:
+  - Xiongfei Wu
+  - Liangyu Qin
+  - Bing Yu
+  - Xiaofei Xie
+  - Lei Ma
+  - Yinxing Xue
+  - Yang Liu
+  - Jianjun Zhao
+  publisher: Proceedings of the 28th International Conference on Program Comprehension
+  date: '2020-07-13'
+  link: https://doi.org/gr7rdz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3324884.3416564
+  title: Marble
+  authors:
+  - Xiaoning Du
+  - Yi Li
+  - Xiaofei Xie
+  - Lei Ma
+  - Yang Liu
+  - Jianjun Zhao
+  publisher: Proceedings of the 35th IEEE/ACM International Conference on Automated
+    Software Engineering
+  date: '2020-12-21'
+  link: https://doi.org/gjqxkk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3324884.3416609
+  title: Cats are not fish
+  authors:
+  - David Berend
+  - Xiaofei Xie
+  - Lei Ma
+  - Lingjun Zhou
+  - Yang Liu
+  - Chi Xu
+  - Jianjun Zhao
+  publisher: Proceedings of the 35th IEEE/ACM International Conference on Automated
+    Software Engineering
+  date: '2020-12-21'
+  link: https://doi.org/gjjgwx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3394171.3413716
+  title: 'DeepSonar: Towards Effective and Robust Detection of AI-Synthesized Fake
+    Voices'
+  authors:
+  - Run Wang
+  - Felix Juefei-Xu
+  - Yihao Huang
+  - Qing Guo
+  - Xiaofei Xie
+  - Lei Ma
+  - Yang Liu
+  publisher: Proceedings of the 28th ACM International Conference on Multimedia
+  date: '2020-10-12'
+  link: https://doi.org/gq4wtz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3394171.3413732
+  title: 'FakePolisher: Making DeepFakes More Detection-Evasive by Shallow Reconstruction'
+  authors:
+  - Yihao Huang
+  - Felix Juefei-Xu
+  - Run Wang
+  - Qing Guo
+  - Lei Ma
+  - Xiaofei Xie
+  - Jianwen Li
+  - Weikai Miao
+  - Yang Liu
+  - Geguang Pu
+  publisher: Proceedings of the 28th ACM International Conference on Multimedia
+  date: '2020-10-12'
+  link: https://doi.org/gmwzn4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3394171.3413544
+  title: 'Amora: Black-box Adversarial Morphing Attack'
+  authors:
+  - Run Wang
+  - Felix Juefei-Xu
+  - Qing Guo
+  - Yihao Huang
+  - Xiaofei Xie
+  - Lei Ma
+  - Yang Liu
+  publisher: Proceedings of the 28th ACM International Conference on Multimedia
+  date: '2020-10-12'
+  link: https://doi.org/gnj4gp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3394171.3413707
+  title: DeepRhythm
+  authors:
+  - Hua Qi
+  - Qing Guo
+  - Felix Juefei-Xu
+  - Xiaofei Xie
+  - Lei Ma
+  - Wei Feng
+  - Yang Liu
+  - Jianjun Zhao
+  publisher: Proceedings of the 28th ACM International Conference on Multimedia
+  date: '2020-10-12'
+  link: https://doi.org/gr7rd2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3368089.3417063
+  title: 'A first look at the integration of machine learning models in complex autonomous
+    driving systems: a case study on Apollo'
+  authors:
+  - Zi Peng
+  - Jinqiu Yang
+  - Tse-Hsun (Peter) Chen
+  - Lei Ma
+  publisher: Proceedings of the 28th ACM Joint Meeting on European Software Engineering
+    Conference and Symposium on the Foundations of Software Engineering
+  date: '2020-11-08'
+  link: https://doi.org/gm8xn3
   plugin: sources.py
   file: sources.yaml
