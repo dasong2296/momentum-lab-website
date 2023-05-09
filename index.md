@@ -32,7 +32,7 @@ We are committed to continuously updating our research results and sharing our f
   title="Our Research"
   text=text
 %}
-
+<!-- 
 {% capture text %}
 
 Our lab has conducted a series of works in general-purpose quality assurance research for intelligent software systems, which includes testing, analysis, verification, interpretation, attacks, and defenses. Our goal is to bridge the vast demands from the industry and to provide effective solutions to ensure the reliability and trustworthiness of intelligent software systems.
@@ -56,7 +56,7 @@ Our lab has conducted a series of works in general-purpose quality assurance res
   flip=true
   style="bare"
   text=text
-%}
+%} -->
 
 {% capture text %}
 
