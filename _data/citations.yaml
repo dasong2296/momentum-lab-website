@@ -88,19 +88,6 @@
   link: https://doi.org/gr7rbx
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2303.01577
-  title: 'DeepLens: Interactive Out-of-distribution Data Detection in NLP Models'
-  authors:
-  - Da Song
-  - Zhijie Wang
-  - Yuheng Huang
-  - Lei Ma
-  - Tianyi Zhang
-  publisher: arXiv
-  date: '2023-01-01'
-  link: https://doi.org/gr7rbz
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.48550/arXiv.2304.11670
   title: Evading DeepFake Detectors via Adversarial Statistical Consistency
   authors:
