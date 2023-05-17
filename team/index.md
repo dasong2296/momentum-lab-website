@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 3
+  order: 2
   tooltip: About our team
 ---
 
@@ -13,8 +13,8 @@ Our research lab is comprised of a talented team of researchers who bring a weal
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+<!-- {% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %} -->
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -24,9 +24,9 @@ Our lab values collaboration, and we work closely together to develop and implem
 
 {% capture content %}
 
+<!-- {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photo.jpg" %} -->
 
 {% endcapture %}
 

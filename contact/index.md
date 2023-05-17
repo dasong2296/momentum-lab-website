@@ -7,31 +7,21 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="ma.lei@acm.org"
+  link="ma.lei@acm.org"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/dir//dice+ualberta/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x53a0218a119b1d79:0x99c87bfb9bf82301?sa=X&ved=2ahUKEwiPu9-u3fr-AhVoIDQIHSemC6YQ9Rd6BAhYEAQ"
 %}
 
 {% include section.html %}
-
+<!-- 
 {% capture col1 %}
 
 {%
@@ -74,4 +64,4 @@ consectetur adipiscing elit
 sed do eiusmod tempor
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% include cols.html col1=col1 col2=col2 col3=col3 %} -->
