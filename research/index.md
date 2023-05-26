@@ -11,13 +11,7 @@ We strongly believe that trustworthy intelligent software systems are the drivin
 
 We are committed to continuously updating our research results and sharing our findings with the broader scientific community. With our exciting and demanding area of research, we welcome collaboration with other research labs, industry partners, and government agencies to make significant advancements in Machine Learning System Engineering.
 
-<!-- {% include section.html %} -->
 
-<!-- ## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %} -->
 
 ## All
 
