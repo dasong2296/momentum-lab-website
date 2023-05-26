@@ -75,7 +75,7 @@
   link: https://doi.org/gr7rbw
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2303.01576
+- id: doi:10.1145/3544548.3580852
   title: 'DeepSeer: Interactive RNN Explanation and Debugging via State Abstraction'
   authors:
   - Zhijie Wang
@@ -83,9 +83,10 @@
   - Da Song
   - Lei Ma
   - Tianyi Zhang
-  publisher: arXiv
-  date: '2023-01-01'
-  link: https://doi.org/gr7rbx
+  publisher: Proceedings of the 2023 CHI Conference on Human Factors in Computing
+    Systems
+  date: '2023-04-19'
+  link: https://doi.org/gr9jc9
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2304.11670
