@@ -76,7 +76,7 @@ Our research lab is comprised of a talented team of researchers who bring a weal
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpeg"
   link="team"
   title="Our Team"
   text=text
